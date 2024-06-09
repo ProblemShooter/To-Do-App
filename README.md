@@ -44,7 +44,6 @@ Place your image files in the images/ directory.
 Reference the images in your HTML or CSS files as needed.
 html
 Copy code
-<img src="images/your-image.png" alt="Description of image">
 Modifying Styles
 To change the appearance of the app, edit the styles.css file. Here are some basic guidelines:
 
